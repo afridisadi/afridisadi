@@ -3,7 +3,7 @@
   <img src="https://pbs.twimg.com/profile_banners/1942278115222511617/1764834209/1080x360" alt="banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Afridi Sadi</h1>
+<h1 align="center">Hi 👋, I'm Afridi Sadi</h1>
 <h3 align="center">💻 Web Developer | 🚀 Problem Solver | 📚 Lifelong Learner</h3>
 
 ---
