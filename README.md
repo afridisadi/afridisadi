@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-6/641138225_992286857136100_2638140662039560383_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeErN4L43jQXEwP7Ed4u-A0Ybr8pyVTT31JuvynJVNPfUklmjJHvWZrLkxgqOQBZyKpbViSx0jD5Ny3bGEkjTQrc&_nc_ohc=SvYFW4IAIsQQ7kNvwEI83L3&_nc_oc=Ado3-yOgyFdbOGMNIg4dcgbm5mDMRHd87HvShubD5lzpp0DLDbFLKmOVXeUGEn0f3rE&_nc_zt=23&_nc_ht=scontent.fzyl2-2.fna&_nc_gid=mz_LK_M0JN7XYeNFc2R6AQ&_nc_ss=7b2a8&oh=00_AQQHUyK_x1dEH_xiMqhIC-7jKS5oIQ8RTbgOzi_0I84yHg&oe=6AFDDE3D" alt=](https://yt3.googleusercontent.com/KmmYLnhNXhQXwtI-4fVY-_VIlKQKauGhyym7eaVH_tPmCzQwSce34pe19Kkofo3BsKrTjSVdYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)"banner" />
+  <img src="https://yt3.googleusercontent.com/KmmYLnhNXhQXwtI-4fVY-_VIlKQKauGhyym7eaVH_tPmCzQwSce34pe19Kkofo3BsKrTjSVdYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Afridi Sadi</h1>
