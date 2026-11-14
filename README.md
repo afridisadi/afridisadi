@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1942278115222511617/1764834209/1080x360" alt="banner" />
+  <img src="[https://pbs.twimg.com/profile_banners/1942278115222511617/1764834209/1080x360](https://www.facebook.com/photo/?fbid=992286853802767&set=a.118143441217117)" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Afridi Sadi</h1>
